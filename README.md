@@ -5,6 +5,8 @@
 
 I'm a fullstack developer and civil engineer from Chile. I'm passionate about technology and learning about the latest tools.
 
+![LisarWisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LisarWisar)
+
 <h3>
   Feel free to contact me!
 </h3>
